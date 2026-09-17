@@ -2,16 +2,17 @@
   "schemaVersion": 1,
   "identifier": "com.nkhnt.repository",
   "name": "nkt's Repository",
-  "description": "Source Repository Của @nkhnt",
+  "description": "",
   "accentColor": "#30D158",
+  "icon": "assets/repo.png"
   "packages": [
     {
       "identifier": "duodynamic",
       "name": "DuoDynamic",
       "author": "nkt",
       "version": "1.0.0",
-      "summary": "DuoDynamic 𖤐 Hình Nền Động Tùy Chỉnh",
-      "description": "★ Tính Năng ★\n\n• Bộ hình nền động DuoDynamic tối ưu giao diện.\n• Tương thích mượt mà với hiệu ứng chuyển cảnh.\n• Tự động đồng bộ cấu hình hiển thị.\n\n⊹ Trải nghiệm giao diện sống động với DuoDynamic.",
+      "summary": "DuoDynamic",
+      "description": "",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper"
@@ -19,7 +20,6 @@
       "publishedAt": "2026-09-17T14:48:00Z",
       "download": "packages/DuoDynamic.tendies",
       "sha256": "352cdd43f5caa902e2d62c4c56b5caacd78d45fb6127d44b3a74ce22a71c9efb",
-      "size": 213494
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -45,6 +45,5 @@
       "icon": "",
       "screenshots": []
     }
-  ],
-  "icon": "assets/repo-icon.png"
+  ]
 }
