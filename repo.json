@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.nkhnt.repository",
+  "name": "nkt's Repository",
+  "description": "",
+  "accentColor": "#30D158",
+  "packages": [
+    {
+      "identifier": "",
+      "name": "",
+      "author": "b",
+      "version": "1.0.0",
+      "summary": "",
+      "description": "",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper"
+      ],
+      "publishedAt": "",
+      "download": "packages/DuoDynamic.tendies",
+      "sha256": "352cdd43f5caa902e2d62c4c56b5caacd78d45fb6127d44b3a74ce22a71c9efb",
+      "size": 6017024,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "",
+      "screenshots": []
+    }
+  ],
+  "icon": "assets/repo-icon.png"
+}
