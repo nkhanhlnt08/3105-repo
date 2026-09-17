@@ -4,7 +4,7 @@
   "name": "nkt's Repository",
   "description": "ko co chi",
   "accentColor": "#30D158",
-  "icon": "assets/f78e1c8e67409d040dd019d6be5105e9.JPG"
+  "icon": "assets/f78e1c8e67409d040dd019d6be5105e9.JPG",
   "packages": [
     {
       "identifier": "duodynamic",
