@@ -4,7 +4,7 @@
   "name": "nkt's Repository",
   "description": "",
   "accentColor": "#30D158",
-  "icon": "assets/repo.png"
+  "icon": "assets/f78e1c8e67409d040dd019d6be5105e9.JPG"
   "packages": [
     {
       "identifier": "duodynamic",
@@ -42,8 +42,8 @@
       ],
       "featured": false,
       "isPrivate": false,
-      "icon": "",
-      "screenshots": []
+      "icon": "co/l.png",
+      "screenshots": ["lol/lol.png"]
     }
   ]
 }
