@@ -14,7 +14,6 @@
       "description": "★ Tính Năng ★\n\n• Bộ hình nền động DuoDynamic tối ưu giao diện.\n• Tương thích mượt mà với hiệu ứng chuyển cảnh.\n• Tự động đồng bộ cấu hình hiển thị.\n\n⊹ Trải nghiệm giao diện sống động với DuoDynamic.",
       "category": "Wallpaper",
       "tags": [
-        "Application",
         "Wallpaper"
       ],
       "publishedAt": "2026-09-17T14:48:00Z",
@@ -43,11 +42,8 @@
       ],
       "featured": false,
       "isPrivate": false,
-      "icon": "assets/duodynamic.png",
-      "screenshots": [
-        "assets/duodynamic-1.png",
-        "assets/duodynamic-2.png"
-      ]
+      "icon": "",
+      "screenshots": []
     }
   ],
   "icon": "assets/repo-icon.png"
