@@ -47,6 +47,50 @@
         "assets/duodynamic-1.png",
         "assets/duodynamic-2.png"
       ]
+    },
+    {
+      "identifier": "Capcut-Pro",
+      "kind": "patch",
+      "name": "Capcut",
+      "author": "YangJiii",
+      "version": "1.0.0",
+      "summary": "Nâng Capcut miễn phí, vĩnh viễn",
+      "description": "Sau Khi nâng không được login tài khoản",
+      "category": "Patch",
+      "tags": [
+        "Patch"
+      ],
+      "icon": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0384.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0379.png"
+      ],
+      "publishedAt": "2026-08-29T10:00:00Z",
+      "download": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/packages/CapcutPro.3105",
+      "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
+      "password": "3105",
+      "size": 34303,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
