@@ -61,9 +61,7 @@
         "Patch"
       ],
       "icon": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0384.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0379.png"
-      ],
+      "screenshots": ["https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0379.png"],
       "publishedAt": "2026-08-29T10:00:00Z",
       "download": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/packages/CapcutPro.3105",
       "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
