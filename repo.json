@@ -4,7 +4,7 @@
   "name": "nkt's Repository",
   "description": "ko co chi",
   "accentColor": "#4EDEF5",
-  "icon": "assets/f78e1c8e67409d040dd019d6be5105e9.JPG",
+  "icon": "assets/repo-icon.jpg",
   "packages": [
     {
       "identifier": "duodynamic",
@@ -67,6 +67,49 @@
       "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
       "password": "3105",
       "size": 34303,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Locket-gold",
+      "kind": "patch",
+      "name": "Locket",
+      "author": "YangJiii",
+      "version": "1.0.0",
+      "summary": "Nâng Locket miễn phí,vĩnh viễn",
+      "description": "Cách nâng Locket mới nhất \nBước 1: Cài Patch từ Repo này về \nBước 2: Copy nguyên đoạn dữ liệu subscriber \nBước 3: Truy cập web https://dangdi.dev/locket/ \nBước 4: Dán dòng chữ vừa nãy copy vào mục dữ liệu json \nBước 5: Nhấn xử lý dữ liệu và bấm vào sao chép \nBước 6: Dán dòng code vừa copy vào mục dữ liệu subscriber hồi nãy \nBước 7: Áp dụng patch và tận hưởng thành quả🔥",
+      "category": "Patch",
+      "tags": ["Patch"],
+      "publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0866.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0860.png",
+        "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0864.png"
+      ],
+      "download": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/packages/LocketCustom.3105",
+      "sha256": "5ae759dcefdcfc265bd071040d948de174d1e6531b1ff898f032dfe273e3502c",
+      "password": "3105",
+      "size": 3697,
       "supportedOS": [
         {
           "minimum": "17.0",
