@@ -132,6 +132,47 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "minepass-rainbow-pass-theme",
+      "kind": "patch",
+      "name": "MinePass: Rainbow Theme",
+      "author": "nkht",
+      "version": "1.0.0",
+      "summary": "MinePass (Rainbow)",
+      "description": "✅Áp dụng cho tất cả các app khoá passcode\n❌Không áp dụng cho passcode màn hình khoá, mục face id và mật mã trong cài đặt\n\nNguồn: https://cowabun.ga/wallpapers?section=passtheme&id=11\n\nSerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Pass Theme",
+      "tags": [
+        "Pass Theme"
+      ],
+      "icon": "",
+      "screenshots": [],
+      "publishedAt": "2026-09-19T19:12:21Z",
+      "download": "packages/MinePass-Rainbow-.3105",
+      "sha256": "e6843eb6dce96f22457974b302e74b98eea6b985a93183514b87b86eef61e996",
+      "size": 121389,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
