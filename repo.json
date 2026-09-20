@@ -173,6 +173,48 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "AmongUs-dialer",
+      "name": "AmongUs Dialer",
+      "author": "Gasetinh",
+      "version": "1.0.0",
+      "summary": "AmongUs xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme AmongUs cho anh em không cần jailbreak",
+      "category": "Dialer",
+      "tags": [
+        "Dialer"
+      ],
+      "publishedAt": "2026-08-30T10:00:00Z",
+      "icon": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0481.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0481.png",
+        "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0480.png"
+      ],
+      "download": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/packages/TelephonyUI-amongus.3105pass",
+      "sha256": "2c9d81aa5e1fc6fcd4dda955504d042f126599871b5632a98889b893af274193",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
