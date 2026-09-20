@@ -145,8 +145,8 @@
       "tags": [
         "Pass Theme"
       ],
-      "icon": "null/null",
-      "screenshots": ["null/null"],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/refs/heads/main/previews/passtheme/images/MinePass_Rainbow_preview.png",
+      "screenshots": ["https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/refs/heads/main/previews/passtheme/images/MinePass_Rainbow_preview.png"],
       "publishedAt": "2026-09-19T19:12:21Z",
       "download": "packages/MinePass-Rainbow-.3105",
       "sha256": "e6843eb6dce96f22457974b302e74b98eea6b985a93183514b87b86eef61e996",
