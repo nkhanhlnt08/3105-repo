@@ -215,6 +215,45 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "LocalDevVPN",
+      "kind": "patch",
+      "name": "LocalDevVPN fix",
+      "author": "nkhnt",
+      "version": "1.0.0",
+      "summary": "Cập nhật cấu hình IP Tunnel và Device cho LocalDevVPN",
+      "description": "Thay đổi thông số mạng:\n- Tunnel IP: 10.7.0.0/24\n- Device IP: 10.7.0.1/32\n\nLưu ý: Cần xoá ứng dụng hiện tại và tải lại trước khi tiến hành patch.",
+      "category": "Patch",
+      "tags": ["Patch"],
+      "icon": "assets/LocalDevVPN-icon.png",
+      "screenshots": ["assets/IMG_0081.PNG"],
+      "publishedAt": "2026-09-21T19:21:14Z",
+      "download": "packages/com-jkcoxson-LocalDevVPN.3105",
+      "sha256": "b2e40d9ea39f3d141a3e5de3ccd687d3255622b9e82a29ff1ff67a56692fe59c",
+      "size": 1361,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
