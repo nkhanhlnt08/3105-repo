@@ -223,7 +223,7 @@
       "category": "Locket Widget",
       "tags": ["Locket Widget"],
       "icon": "assets/gold_on_black.png",
-      "screenshots": ["assets/null"],
+      "screenshots": ["assets/null.png"],
       "publishedAt": "2026-09-21T19:21:14Z",
       "download": "packages/RemoteConfig_1.3105",
       "sha256": "b1f9feb0c26873429139d6093d27772b32a39fc8714d00265c0d12ffb509f9d2",
