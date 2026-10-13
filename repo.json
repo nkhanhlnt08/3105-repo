@@ -258,7 +258,7 @@
       "author": "nkhnt",
       "version": "1.0.0",
       "summary": "Quay video 30s kèm tiếng và tải ảnh/video từ thư viện lên Locket.",
-      "description": "✨ TÍNH NĂNG CẤU HÌNH:\n✅ Quay video 30s\n✅ Caption độc lạ\n✅ Ghi âm khi quay\n✅ Có âm thanh video\n✅ Up video/ảnh từ bộ sưu tập\n✅ Đổi biểu tượng ứng dụng\n✅ Chủ đề máy ảnh\n✅ Có thể khôi phục chuỗi Locket🔥\nAI Locket (chỉ khả dụng khi mua gold chính chủ\n❌ KHÔNG KÈM GOLD\n\n👉 Lưu ý: Nên dùng NextDNS để chặn firebaseremoteconfig.googleapis.com, tránh bị đè/mất cấu hình này.",
+      "description": "✨ TÍNH NĂNG CẤU HÌNH:\n✅ Quay video 30s\n✅ Caption độc lạ\n✅ Ghi âm khi quay\n✅ Có âm thanh video\n✅ Up video/ảnh từ bộ sưu tập\n✅ Đổi biểu tượng ứng dụng\n✅ Chủ đề máy ảnh\n✅ Có thể khôi phục chuỗi Locket🔥\n✅ AI Locket: Dùng AI xử lý ảnh qua server (cần mua Gold chính chủ)\n❌ KHÔNG KÈM GOLD\n\n👉 Lưu ý: Nên dùng NextDNS để chặn firebaseremoteconfig.googleapis.com, tránh bị đè/mất cấu hình này.",
       "category": "Locket Widget",
       "tags": ["Locket Widget"],
       "icon": "assets/neon_yellow9.png",
