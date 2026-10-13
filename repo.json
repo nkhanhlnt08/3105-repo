@@ -250,6 +250,45 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Locket_2",
+      "kind": "patch",
+      "name": "Locket++++",
+      "author": "nkhnt",
+      "version": "1.0.0",
+      "summary": "Quay video 30s kèm tiếng và tải ảnh/video từ thư viện lên Locket.",
+      "description": "✨ TÍNH NĂNG CẤU HÌNH:\n✅ Quay video 30s\n✅ Caption độc lạ\n✅ Ghi âm khi quay\n✅ Có âm thanh video\n✅ Up video/ảnh từ bộ sưu tập\n✅ Đổi biểu tượng ứng dụng\n✅ Chủ đề máy ảnh\n✅ Có thể khôi phục chuỗi Locket🔥\nAI Locket (chỉ khả dụng khi mua gold chính chủ\n❌ KHÔNG KÈM GOLD\n\n👉 Lưu ý: Nên dùng NextDNS để chặn firebaseremoteconfig.googleapis.com, tránh bị đè/mất cấu hình này.",
+      "category": "Locket Widget",
+      "tags": ["Locket Widget"],
+      "icon": "assets/neon_yellow9.png",
+      "screenshots": ["assets/IMG_0152.png", "assets/IMG_0129.png", "assets/IMG_0153.png"],
+      "publishedAt": "2026-10-12T15:29:06Z",
+      "download": "packages/RemoteConfig_2.3105",
+      "sha256": "e7b4a0c66182276de9b6037d61c810547db57b05722585612b1f391a23a40d53",
+      "size": 239048,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
