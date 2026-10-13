@@ -180,7 +180,7 @@
       "author": "nkhnt",
       "version": "1.0.1",
       "summary": "Cập nhật cấu hình IP Tunnel và Device cho LocalDevVPN",
-      "description": "Thay đổi thông số mạng:\n- Tunnel IP: 10.7.0.0/24\n- Device IP: 10.7.0.1/32\n\nLưu ý: Cần xoá ứng dụng hiện tại và tải lại trước khi tiến hành patch.",
+      "description": "Thay đổi thông số mạng:\n- Tunnel IP: 10.7.0.0/30\n- Device IP: 10.7.0.1/32\n\nLưu ý: Cần xoá ứng dụng hiện tại và tải lại trước khi tiến hành patch.",
       "category": "Patch",
       "tags": ["Patch"],
       "icon": "assets/LocalDevVPN-icon.png",
