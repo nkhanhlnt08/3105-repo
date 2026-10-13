@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "identifier": "com.nkhnt.repository",
-  "name": "nkt's Repository",
-  "description": "github.com/nkhanhlnt08/3105-repo",
+  "name": "nkhnt's Repository",
+  "description": "☁️",
   "accentColor": "#4EDEF5",
-  "icon": "assets/repo-icon.jpg",
+  "icon": "https://avatars.githubusercontent.com/u/176460797",
   "packages": [
     {
       "identifier": "duodynamic",
