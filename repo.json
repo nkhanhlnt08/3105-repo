@@ -263,9 +263,9 @@
       "tags": ["Locket Widget"],
       "icon": "assets/neon_yellow9.png",
       "screenshots": ["assets/IMG_0152.png", "assets/IMG_0129.png", "assets/IMG_0153.png"],
-      "publishedAt": "2026-10-12T15:29:06Z",
+      "publishedAt": "2026-10-14T09:10:59Z",
       "download": "packages/RemoteConfig_2.3105",
-      "sha256": "e7b4a0c66182276de9b6037d61c810547db57b05722585612b1f391a23a40d53",
+      "sha256": "308bc084eb47981dc8ec375b31ace4374cf5c4159d1320cf3f8f7385ea1d1d1b",
       "size": 239048,
       "supportedOS": [
         {
