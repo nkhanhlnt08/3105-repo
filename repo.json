@@ -249,7 +249,8 @@
         }
       ],
       "featured": false,
-      "isPrivate": false
+      "isPrivate": true,
+      "password": "3105"
     },
     {
       "identifier": "Locket_2",
