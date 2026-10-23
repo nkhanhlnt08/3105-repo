@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "identifier": "com.nkhnt.repository",
-  "name": "nkhnt's Repository",
-  "description": "☁️",
+  "name": "☁️ nkhnt's Repository",
+  "description": "HANH PHUC NHE",
   "accentColor": "#134479",
   "icon": "https://avatars.githubusercontent.com/u/176460797?s=300",
   "packages": [
@@ -268,7 +268,7 @@
       "category": "Locket Widget 💛",
       "tags": ["Locket Widget 💛"],
       "icon": "assets/flat_yellow.png",
-      "screenshots": ["assets/IMG_0128.png", "assets/IMG_0129.png", "assets/IMG_0130.png"],
+      "screenshots": ["assets/IMG_1638.png", "assets/IMG_1639.png", "assets/IMG_1640.png"],
       "publishedAt": "2026-10-23T04:05:05Z",
       "download": "packages/RemoteConfig_1-4.3105",
       "sha256": "aaf1561557135ef8a4b827e16700639f943edbd265fdde6e52490347da8cd1e6",
@@ -309,7 +309,7 @@
     {
       "identifier": "Locket_2",
       "kind": "patch",
-      "name": "Locket++++",
+      "name": "Locket+++",
       "author": "nkhnt",
       "version": "1.0.1",
       "summary": "Quay video 30s kèm tiếng và tải ảnh/video từ thư viện lên Locket.",
