@@ -353,6 +353,55 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "locket_streak_editor",
+      "kind": "patch",
+      "name": "Locket Streak Editor",
+      "author": "nkhnt",
+      "version": "1.0.0",
+      "summary": "summary": "Tùy chỉnh số streak Locket hiển thị trên máy",
+      "description": "description": "Chỉnh sửa số streak Locket hiển thị trên app và nhãn dán sticker khi chụp ảnh gửi bạn bè.\n\n• Cách dùng: Mở Locket 1 lần → Vào 3105 sửa số tại 'count' ngoài cùng (không sửa trong past_streak) → Đóng Locket rồi bấm 'Áp dụng patch'.\n• Xoá/Khôi phục: Bật 'Xoá trường này' rồi Apply, hoặc chọn 'Khôi phục file gốc'.\n\n⚠️ LƯU Ý: Không nên dùng chung với Widget vì Widget chạy ngầm gọi API máy chủ sẽ làm mất chuỗi đã chỉnh sửa.",
+      "category": "Locket Widget 💛",
+      "tags": ["Locket Widget 💛", "Patch"],
+      "icon": "assets/locket_icon.png",
+      "screenshots": ["null/null.png"],
+      "publishedAt": "2026-10-24T07:41:40Z",
+      "download": "packages/LocketStreakEditor.3105",
+      "sha256": "37032b810419fe75276330d8a57dđ6e3bff38760461a5d3993acb5aed53bed5b",
+      "size": 1901,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.10"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.7"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.2",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": true,
+      "password": "3105"
     }
   ]
 }
