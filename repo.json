@@ -369,7 +369,10 @@
       ],
       "icon": "assets/locket_icon.png",
       "screenshots": [
-        "null/null.png"
+        "assets/IMG_0281.png",
+        "assets/IMG_0282.png",
+        "assets/IMG_0283.png",
+        "assets/IMG_0284.png",
       ],
       "publishedAt": "2026-10-24T07:41:40Z",
       "download": "packages/LocketStreakEditor.3105",
