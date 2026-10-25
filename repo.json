@@ -293,13 +293,13 @@
       "kind": "patch",
       "name": "Locket 2305",
       "author": "nkhnt",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "summary": "Quay video 30s kèm tiếng và tải ảnh/video từ thư viện lên Locket.",
       "description": "✨ TÍNH NĂNG CẤU HÌNH:\n✅ Quay video 30s\n✅ Caption độc lạ\n✅ Ghi âm khi quay\n✅ Có âm thanh video\n✅ Up video/ảnh từ bộ sưu tập (video tải lên tối đa 10s & dưới 6MB)\n✅ Đổi biểu tượng ứng dụng\n✅ Chủ đề máy ảnh\n✅ Có thể khôi phục chuỗi Locket🔥\n✅ Xoá quảng cáo\n⚠️ AI Locket: Tạo ảnh AI qua server (yêu cầu tài khoản có sẵn Gold)\n❌ Không kèm gói Gold (không ảnh hưởng nếu đã mua Gold, bật huy hiệu yêu cầu tài khoản có sẵn Gold)\n\n✅ Đã chống Revoke: Cài là dùng, không cần DNS phụ trợ.\n💡 Mẹo: Nếu lần đầu vào app chưa hiện config, hãy thao tác patch lại.",
       "category": "Locket Widget 💛",
       "tags": ["Locket Widget 💛", "Patch"],
       "icon": "assets/neon_yellow9.png",
-      "screenshots": ["assets/IMG_0152.png", "assets/IMG_0129.png", "assets/IMG_0153.png"],
+      "screenshots": ["assets/IMG_1648.png", "assets/IMG_1649.png"],
       "publishedAt": "2026-10-25T14:08:06Z",
       "download": "packages/RemoteConfig_2-1.3105",
       "sha256": "7b837b97ac5a640e7eb1897f4ca7d9318c00625cd0aefff71d5a742a893db8db",
@@ -331,7 +331,8 @@
         }
       ],
       "featured": false,
-      "isPrivate": false
+      "isPrivate": true,
+      "password": "3105"
     },
     {
       "identifier": "locket_streak_editor",
