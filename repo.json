@@ -247,7 +247,7 @@
       "kind": "patch",
       "name": "Locket++++",
       "author": "nkhnt",
-      "version": "1.1.3",
+      "version": "1.1.3.1",
       "summary": "Quay video 60s kèm tiếng và tải ảnh/video từ thư viện lên Locket.",
       "description": "✨ TÍNH NĂNG CẤU HÌNH:\n⚠️ Quay video 60s\n✅ Caption độc lạ\n✅ Ghi âm khi quay\n✅ Có âm thanh video\n✅ Up video/ảnh từ bộ sưu tập (video tải lên tối đa 10s & dưới 6MB)\n✅ Đổi biểu tượng ứng dụng\n✅ Chủ đề máy ảnh\n✅ Xoá quảng cáo\n✅ Có thể khôi phục chuỗi Locket🔥\n❌ Không kèm gói Gold (không ảnh hưởng nếu đã mua Gold, bật huy hiệu yêu cầu tài khoản có sẵn Gold)\n\n✅ Đã chống Revoke: Cài là dùng, không cần DNS phụ trợ.\n💡 Mẹo: Nếu lần đầu vào app chưa hiện config, hãy thao tác patch lại.",
       "category": "Locket Widget 💛",
