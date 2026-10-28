@@ -254,9 +254,9 @@
       "tags": ["Locket Widget 💛", "Patch"],
       "icon": "assets/flat_yellow.png",
       "screenshots": ["assets/IMG_1638.png", "assets/IMG_1639.png", "assets/IMG_1640.png"],
-      "publishedAt": "2026-10-27T07:16:47Z",
-      "download": "packages/RemoteConfig_1-5.3105",
-      "sha256": "1d8560baf7076db7bec4a9e28f5b28050d8e85e0c2d690a4cda7a246e9ccd864",
+      "publishedAt": "2026-10-28T07:47:20Z",
+      "download": "packages/RemoteConfig_1-5.1.3105",
+      "sha256": "01838003de05b1d71d9af4dc986778eeb652f3843ad9920837106edd652ea9cd",
       "size": 337462,
       "supportedOS": [
         {
