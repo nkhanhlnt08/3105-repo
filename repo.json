@@ -378,9 +378,13 @@
       "summary": "iOS 27.0RC+",
       "description": "*iOS 27RC+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Wallpaper",
-      "tags": ["Wallpaper"],
+      "tags": [
+        "Wallpaper"
+      ],
       "icon": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/main/previews/apple/images/iPhone%2018%20Pro.png",
-      "screenshots": ["https://raw.githubusercontent.com/SerStars/nugget-wallpapers/main/previews/apple/images/iPhone%2018%20Pro.png"],
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/main/previews/apple/images/iPhone%2018%20Pro.png"
+      ],
       "publishedAt": "2026-09-26T19:23:25Z",
       "download": "https://github.com/SerStars/Nugget-Wallpapers/blob/main/wallpapers/apple/iPhone%2018%20Pro.tendies",
       "sha256": "4fa1fc751a22273da02193fb63a2ef13c13932ce35f1dbdde03e0318a9f5de0d",
