@@ -411,6 +411,42 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "spiderman_tendies",
+      "kind": "wallpaper",
+      "name": "Spiderman",
+      "author": "Denrindz",
+      "version": "1.0.0",
+      "summary": "Spiderman",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/2026_11_22_13_31_11_IMG_0093.jpg",
+      "screenshots": ["assets/2026_11_22_13_31_11_IMG_0093.jpg","assets/2026_11_22_13_31_11_IMG_0094.jpg"],
+      "publishedAt": "2026-11-22T06:27:44Z",
+      "download": "packages/Spiderman.tendies",
+      "sha256": "0d3f17dbed460e7d2cff640f38df93886f38c8d8a4ea2654b5c0b5968315ceab",
+      "size": 6415102,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.10"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.7.2"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.2"
+        },
+          "minimum": "27.3",
+          "maximum": "27.3",
+          "builds": ["24C5037i"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
