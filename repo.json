@@ -440,6 +440,7 @@
           "minimum": "27.0",
           "maximum": "27.2"
         },
+        {
           "minimum": "27.3",
           "maximum": "27.3",
           "builds": ["24C5037i"]
