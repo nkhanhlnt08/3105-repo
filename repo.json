@@ -234,27 +234,16 @@
         },
         {
           "minimum": "26.0",
-          "maximum": "26.7.1"
+          "maximum": "26.7.2"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.2",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f",
-            "24A5408d",
-            "24A5418b",
-            "24A5424a",
-            "24A5430a",
-            "24A435",
-            "24A437",
-            "24A446",
-            "24A94425",
-            "24B5084k",
-            "24B5089g"
-          ]
+          "maximum": "27.2"
+        },
+        {
+          "minimum": "27.3",
+          "maximum": "27.3",
+          "builds": ["24C5037i"]
         }
       ],
       "featured": false,
@@ -284,27 +273,16 @@
         },
         {
           "minimum": "26.0",
-          "maximum": "26.7.1"
+          "maximum": "26.7.2"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.2",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f",
-            "24A5408d",
-            "24A5418b",
-            "24A5424a",
-            "24A5430a",
-            "24A435",
-            "24A437",
-            "24A446",
-            "24A94425",
-            "24B5084k",
-            "24B5089g"
-          ]
+          "maximum": "27.2"
+        },
+        {
+          "minimum": "27.3",
+          "maximum": "27.3",
+          "builds": ["24C5037i"]
         }
       ],
       "featured": false,
@@ -342,27 +320,16 @@
         },
         {
           "minimum": "26.0",
-          "maximum": "26.7.1"
+          "maximum": "26.7.2"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.2",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f",
-            "24A5408d",
-            "24A5418b",
-            "24A5424a",
-            "24A5430a",
-            "24A435",
-            "24A437",
-            "24A446",
-            "24A94425",
-            "24B5084k",
-            "24B5089g"
-          ]
+          "maximum": "27.2"
+        },
+        {
+          "minimum": "27.3",
+          "maximum": "27.3",
+          "builds": ["24C5037i"]
         }
       ],
       "featured": false,
@@ -421,7 +388,7 @@
       "summary": "Spiderman",
       "category": "Wallpaper",
       "tags": ["Wallpaper"],
-      "icon": "assets/IMG_1665.png",
+      "icon": "assets/IMG_1664.png",
       "screenshots": ["assets/IMG_1664.png","assets/IMG_1665.png"],
       "publishedAt": "2026-11-22T06:27:44Z",
       "download": "packages/Spiderman.tendies",
